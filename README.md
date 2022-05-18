@@ -1,4 +1,5 @@
-### Exploratory-Data-Analysis-on-Diabetes-Dataset
+### Exploratory Data Analysis on Diabetes Dataset
+Exploratory data analysis is a crucial component of the data science process that allows you to investigate and summarize the main characteristics of a data set. It helps to detect anomalies; discover patterns and check assumptions we may have about our data. We will in this project do a deep dive into the Pima Indians diabetes data set to see what insights we can glean from the data.
 
 <details>
         <summary>Context</summary>
