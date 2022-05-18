@@ -34,6 +34,7 @@ Exploratory data analysis is a crucial component of the data science process tha
                 <li>Outcome : Class variable (0: person is not diabetic or 1: person is diabetic)</li>
         </ul>
         </p>
+        
 <details>
         <summary>Summary of key findings & insights</summary>
         <br>
@@ -41,3 +42,5 @@ Exploratory data analysis is a crucial component of the data science process tha
                 After EDA we gleaned the following key insights:
         <ul>
                 <li></li>
+        </p>
+</details>
