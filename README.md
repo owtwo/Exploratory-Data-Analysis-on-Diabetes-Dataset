@@ -31,7 +31,7 @@ Exploratory data analysis is a crucial component of the data science process tha
                 <li><code>BMI:</code> Body mass index (weight in kg/(height in m)^2)</li>
                 <li><code>DiabetesPedigreeFunction:</code> A function which scores likelihood of diabetes based on family history.</li>
                 <li><code>Age:</code> Age in years</li>
-                <li><code>Outcome</code> : Class variable (0: person is not diabetic or 1: person is diabetic)</li>
+                <li><code>Outcome:</code> Class variable (0: person is not diabetic or 1: person is diabetic)</li>
         </ul>
         </p>
 </details>
