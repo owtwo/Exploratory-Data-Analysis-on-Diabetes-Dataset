@@ -42,6 +42,18 @@ Exploratory data analysis is a crucial component of the data science process tha
         <p style='text-align:justify;'>
                 After EDA we gleaned the following key insights:
         <ul>
-                <li>Both distributions have a majority of the women's ages ranging from 20 to 30 years. The number of Women who have diabetes in this category is smaller(around 90) compared to the number of women who do not have diabetes(around 349).</li>
+                <li>Across the two classes of women (diabetic and non-diabetic), the <code>Age</code> distribution is such that the majority of ages range from 20
+                    to 30 years. The number of diabetic Women in this category is smaller(around 90) compared to the number of non-diabetic women(around 349).</li>
+                <li><code>Pregnancy</code> is positively correlated with all variables except for <code>Skinthickness</code>, <code>Insulin</code> and
+                    <code>DiabetePedigreeFunction</code> which are negatively correlated. This seems to suggest that as the number of preganancies increase for a
+                    woman, their <code>Glucose</code>, <code>BloodPressure</code>, <code>BMI</code> and <code>Age</code> also increase while
+                    <code>Skinthickness</code>, <code>Insulin</code>, and <code>DiabetesPedigreeFunction</code> decrease. Some of these correlations may be spurious
+                    in nature or be influenced more by an unknown third variable. Requires further investigation.</li>
+                <li>There is a relatively strong positive correlation between <code>Age</code> and <code>Pregnancy</code> indicating that as patients grow older the
+                    number of pregnancies increase. </li>
+                <li><code>Age</code> shows a negative correlation with <code>skinthickness</code> which is understandable because as one gets older
+                    <code>skinthickness</code> naturally decreases.</li>
+                <li><code>Insulin</code> also has a relatively strong positive correlation with <code>skinthickness</code> but a weak one with <code>Glucose</code
+                    <code>BloodPressure</code>, <code>BMI</code> and <code>DiabetesPedigreeFunction</code>. </li>
         </p>
 </details>
