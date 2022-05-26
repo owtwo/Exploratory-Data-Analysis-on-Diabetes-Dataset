@@ -3,7 +3,9 @@ Exploratory data analysis is a crucial component of the data science process tha
 
 
 <img src="https://github.com/owtwo/Exploratory-Data-Analysis-on-Diabetes-Dataset/blob/main/images/correlation%20heatmap.png" alt="Pairplot" style="height: 200px; width:200px;"/>
-
+<p align="center">
+<img src='Images/Quant.png' width=100%>
+</p>
 <details>
         <summary>Context</summary>
         <br>
