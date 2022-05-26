@@ -53,7 +53,7 @@ Exploratory data analysis is a crucial component of the data science process tha
                     number of pregnancies increase. </li>
                 <li><code>Age</code> shows a negative correlation with <code>skinthickness</code> which is understandable because as one gets older
                     <code>skinthickness</code> naturally decreases.</li>
-                <li><code>Insulin</code> also has a relatively strong positive correlation with <code>skinthickness</code> but a weak one with <code>Glucose</code
+                <li><code>Insulin</code> also has a relatively strong positive correlation with <code>skinthickness</code> but a weak one with <code>Glucose</code>,
                     <code>BloodPressure</code>, <code>BMI</code> and <code>DiabetesPedigreeFunction</code>. </li>
         </p>
 </details>
