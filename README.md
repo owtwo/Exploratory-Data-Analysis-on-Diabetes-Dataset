@@ -42,6 +42,6 @@ Exploratory data analysis is a crucial component of the data science process tha
         <p style='text-align:justify;'>
                 After EDA we gleaned the following key insights:
         <ul>
-                <li></li>
+                <li>Both distributions have a majority of the women's ages ranging from 20 to 30 years. The number of Women who have diabetes in this category is smaller(around 90) compared to the number of women who do not have diabetes(around 349).</li>
         </p>
 </details>
