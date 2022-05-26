@@ -1,7 +1,7 @@
 ### Exploratory Data Analysis on Diabetes Dataset
 Exploratory data analysis is a crucial component of the data science process that allows you to investigate and summarize the main characteristics of a data set. It helps to detect anomalies; discover patterns and check assumptions we may have about our data. We will in this project do a deep dive into the Pima Indians diabetes data set to see what insights we can glean from the data.
 
-<img src="https://github.com/owtwo/Exploratory-Data-Analysis-on-Diabetes-Dataset/blob/main/images/correlation%20heatmap%20dark.png" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">  <img src="https://github.com/owtwo/Exploratory-Data-Analysis-on-Diabetes-Dataset/blob/main/images/pairplot%20dark.png" style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://github.com/owtwo/Exploratory-Data-Analysis-on-Diabetes-Dataset/blob/main/images/correlation%20heatmap%20dark.png" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">   <img src="https://github.com/owtwo/Exploratory-Data-Analysis-on-Diabetes-Dataset/blob/main/images/pairplot%20dark.png" style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 
                 
