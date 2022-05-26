@@ -23,7 +23,7 @@ Exploratory data analysis is a crucial component of the data science process tha
         <p style='text-align:justify;'>
              The dataset has the following information:   
         <ul>
-                <li>Pregnancies: Number of times pregnant</li>
+                <li><code>Pregnancies:</code> Number of times pregnant</li>
                 <li>Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test</li>
                 <li>BloodPressure: Diastolic blood pressure (mm Hg)</li>
                 <li>SkinThickness: Triceps skin fold thickness (mm)</li>
