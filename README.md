@@ -7,7 +7,7 @@ Exploratory data analysis is a crucial component of the data science process tha
         <div class="column">
                 <img src="https://github.com/owtwo/Exploratory-Data-Analysis-on-Diabetes-Dataset/blob/main/images/correlation%20heatmap.png" width=40%>
         </div>
-        <div class = "column">
+        <div class = "row">
                 <img src="https://github.com/owtwo/Exploratory-Data-Analysis-on-Diabetes-Dataset/blob/main/images/correlation%20heatmap.png" width=40%>
         </div>
 </div>
