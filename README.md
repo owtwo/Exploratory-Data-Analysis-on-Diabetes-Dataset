@@ -24,14 +24,14 @@ Exploratory data analysis is a crucial component of the data science process tha
              The dataset has the following information:   
         <ul>
                 <li><code>Pregnancies:</code> Number of times pregnant</li>
-                <li>Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test</li>
-                <li>BloodPressure: Diastolic blood pressure (mm Hg)</li>
-                <li>SkinThickness: Triceps skin fold thickness (mm)</li>
-                <li>Insulin: 2-Hour serum insulin (mu U/ml)</li>
-                <li>BMI: Body mass index (weight in kg/(height in m)^2)</li>
-                <li>DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history.</li>
-                <li>Age: Age in years</li>
-                <li>Outcome : Class variable (0: person is not diabetic or 1: person is diabetic)</li>
+                <li><code>Glucose:</code> Plasma glucose concentration over 2 hours in an oral glucose tolerance test</li>
+                <li><code>BloodPressure:</code> Diastolic blood pressure (mm Hg)</li>
+                <li><code>SkinThickness:</code> Triceps skin fold thickness (mm)</li>
+                <li><code>Insulin:</code> 2-Hour serum insulin (mu U/ml)</li>
+                <li><code>BMI:</code> Body mass index (weight in kg/(height in m)^2)</li>
+                <li><code>DiabetesPedigreeFunction:</code> A function which scores likelihood of diabetes based on family history.</li>
+                <li><code>Age:</code> Age in years</li>
+                <li><code>Outcome</code> : Class variable (0: person is not diabetic or 1: person is diabetic)</li>
         </ul>
         </p>
 </details>
